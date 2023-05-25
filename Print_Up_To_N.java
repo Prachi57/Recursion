@@ -1,5 +1,5 @@
 import java.util.*;
-public class uptoon {
+public class Print_Up_To_N {
     public static void main(String[] args) {
         int n;
         System.out.println("Enter the number for printing");
