@@ -1,5 +1,5 @@
 import java.util.*;
-public class arrayprintreverse {
+public class Array_Print_Reverse {
     public static void main(String[] args) {
         int n;
         System.out.println("Enter the size of array");
