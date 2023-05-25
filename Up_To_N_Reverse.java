@@ -1,5 +1,5 @@
 import java.util.*;
-public class uptonreverse {
+public class Up_To_N_Reverse {
     public static void main(String[] args) {
         int n;
         System.out.println("Enter the number for printing");
