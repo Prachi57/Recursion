@@ -1,5 +1,5 @@
 import java.util.*;
-public class maxarray {
+public class Max_Array {
     public static void main(String[] args) {
         int n;
         System.out.println("Enter the size of array");
